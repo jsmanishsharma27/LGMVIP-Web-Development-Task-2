@@ -1,0 +1,38 @@
+.btn {
+  background-color: #264653;
+  color: white;
+  float: right;
+  margin: 4px 50px;
+  width: 150px;
+  height: 52px;
+  left: auto;
+}
+.card-img-top{
+  width: 70%;
+  height: 70%;
+  margin: 2.5em;
+  border-radius: 50%;
+}
+.card{
+  width: 10rem;
+  height: 93%;
+  background-color: #0C0908;
+  color: #264653;
+  left: 50px;
+  right: 50px;
+  padding: 20px 20px;
+  margin: 0.5em;
+  margin-left: 30em; 
+}
+.card:hover{
+  background-color: #e76f51;
+ }
+.card-deck{
+  margin: 0.9em;
+  width: 30%;
+}
+.card-text{
+  font-size: 25px;
+  margin: 0.9em;
+  text-decoration-color:  #264653;
+}
